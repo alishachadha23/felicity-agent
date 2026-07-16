@@ -1,0 +1,9 @@
+pdfplumber
+pandas
+openpyxl
+requests
+pytesseract
+pdf2image
+Pillow
+numpy
+ollama
